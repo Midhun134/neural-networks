@@ -16,4 +16,5 @@ visualizatio
 * Neural gas
 * Growing neural gas (not yet done)
 * Voronoi (if you want to display the voronoi diagram).
+++++++
 
