@@ -11,7 +11,7 @@ visualizatio
 * Elman recurrent network
 * Jordan recurrent network
 * Hopfield (not yet done)
-* ART 1
+* ART1
 * Self organizing map
 * Neural gas
 * Growing neural gas (not yet done)
